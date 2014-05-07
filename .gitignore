@@ -1,0 +1,22 @@
+# Mac
+.DS_STORE
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# trash
+applet/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+# Ignore bin directory
+bin/
